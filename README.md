@@ -13,7 +13,7 @@
 <h4>Descrição do Projeto:</h4>
 <p>
 
-<h4>Tecnologia</h4>
+<h4>Tecnologia:</h4>
 
 - [ ] HTML5
 - [ ] CSS
