@@ -17,4 +17,5 @@
 
 - [ ] HTML5
 - [ ] CSS
+- [ ] JavaScript
 - [ ] C#
