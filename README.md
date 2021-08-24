@@ -16,8 +16,7 @@
 <p>O sistema também abordará a parte financeira, pois a escola faz o controle dos pagamentos através do registro das aulas dadas pelo professor. Quando há falta não há desconto, porém o mesmo deve agendar esta reposição com o aluno posteriormente e tudo também deve ser registrado no sistema.
 </p> 
   
-  Link: https://docs.google.com/document/d/1jTrP753i-xAE6yHB6kbIvIncDcKVIpGOjpqD0AE-OQU/edit?usp=sharing
-
+<a target="" href="https://docs.google.com/document/d/1jTrP753i-xAE6yHB6kbIvIncDcKVIpGOjpqD0AE-OQU/edit?usp=sharing">Google Docs</a>
 
 <h4>Tecnologia:</h4>
 
