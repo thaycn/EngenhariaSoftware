@@ -1,4 +1,4 @@
-<h3>????????????</h3>
+<h3>Sistema de Gestão Escolar</h3>
 <hr>
 
 <h4>Colaboradores:</h4>
@@ -18,4 +18,5 @@
 - [ ] HTML5
 - [ ] CSS
 - [ ] JavaScript
+- [ ] Bootstrap
 - [ ] C#
