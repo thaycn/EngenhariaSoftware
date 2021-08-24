@@ -11,7 +11,13 @@
 </p>
 
 <h4>Descrição do Projeto:</h4>
-<p>
+<p> Este projeto será feito com base nas necessidades da diretoria da escola em relação a uma melhor gestão. O foco é dar aos professores um sistema organizado para que os mesmos possam ter o seu usuário afim de cadastrar todas aulas dadas, registrar faltas, além de registrar também o assunto tratado na aula. 
+</p>
+<p>O sistema também abordará a parte financeira, pois a escola faz o controle dos pagamentos através do registro das aulas dadas pelo professor. Quando há falta não há desconto, porém o mesmo deve agendar esta reposição com o aluno posteriormente e tudo também deve ser registrado no sistema.
+</p> 
+  
+  Link: https://docs.google.com/document/d/1jTrP753i-xAE6yHB6kbIvIncDcKVIpGOjpqD0AE-OQU/edit?usp=sharing
+
 
 <h4>Tecnologia:</h4>
 
