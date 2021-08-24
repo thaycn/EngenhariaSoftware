@@ -24,4 +24,4 @@
 - [ ] CSS
 - [ ] JavaScript
 - [ ] Bootstrap
-- [ ] C#
+- [ ] Oracle Database
