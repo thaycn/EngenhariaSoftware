@@ -24,4 +24,6 @@
 - [ ] CSS
 - [ ] JavaScript
 - [ ] Bootstrap
+- [ ] Node.Js / C# - Back
+- [ ] ReactNative - Front
 - [ ] Oracle Database
