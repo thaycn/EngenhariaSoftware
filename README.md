@@ -17,7 +17,7 @@
 </p> 
   
 <a target="" href="https://docs.google.com/document/d/1jTrP753i-xAE6yHB6kbIvIncDcKVIpGOjpqD0AE-OQU/edit?usp=sharing">Google Docs</a>
-<hr>
+<br>
 <a target="" href="https://www.figma.com/file/F8xyuRuZK2wDRcrpvuL299/P%C3%A1gina-Inicial?node-id=94%3A287">Figma</a>
 
 
